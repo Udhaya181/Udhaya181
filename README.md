@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Udhaya181
-- 👀 I’m interested in data science
+- 👀 I’m interested in data analysis using python
 - 🌱 I’m currently learning GAN
 - 📫 How to reach me udhayathayalan181@gmail.com
 
